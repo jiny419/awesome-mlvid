@@ -248,6 +248,6 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me jiny491@mgmail.com.
+If you have any question about this opinionated list, do not hesitate to contact me jiny491@gmail.com.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
